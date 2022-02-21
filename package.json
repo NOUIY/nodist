@@ -28,7 +28,7 @@
     "progress": "2.x",
     "promisepipe": "^3.0.0",
     "recursive-readdir": "^2.2.2",
-    "request": "~2.88.0",
+    "request": "~2.88.2",
     "rimraf": "~2",
     "semver": "^6.0.0",
     "tar": "4.x"
