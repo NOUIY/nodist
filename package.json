@@ -31,7 +31,7 @@
     "request": "~2.88.0",
     "rimraf": "~2",
     "semver": "^6.0.0",
-    "tar": "4.x"
+    "tar": "4.4.18"
   },
   "devDependencies": {
     "vows": "^0.8.3"
