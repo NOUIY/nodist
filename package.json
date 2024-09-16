@@ -28,7 +28,7 @@
     "ncp": "^2.0.0",
     "progress": "^2.0.3",
     "promisepipe": "^3.0.0",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "request": "~2.88.0",
     "rimraf": "^3.0.2",
     "semver": "^7.3.7",
